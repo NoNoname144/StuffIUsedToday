@@ -1,3 +1,4 @@
+@ -1,19 +0,0 @@
 # Welcome to my LookUp File
 
 This file just exists to have a place where all the things I learned or used today will be stored so I don't forget them.
